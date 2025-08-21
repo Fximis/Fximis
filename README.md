@@ -86,7 +86,7 @@ Me chamo Fellipe Miquelão Schmidt, sou advogado pós-graduado em Direito Digita
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fximis&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fximis&theme=tokyonight&layout=donut&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>

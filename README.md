@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Me chamo Fellipe Miquelão Schmidt, sou advogado pós-graduado em Direito Digital, Dybersegurança e IA pela FMP. Atualmente, estou  em transição de carreira, cursando Análise e Desenvolvimento de Sistemas na Unicesumar, buscando oportunidades para adentrar ao mundo do TI.
+Me chamo Fellipe Miquelão Schmidt, sou advogado pós-graduado em Direito Digital, Cybersegurança e IA pela FMP. Atualmente, estou  em transição de carreira, cursando Análise e Desenvolvimento de Sistemas na Unicesumar, buscando oportunidades para adentrar ao mundo do TI.
 
 ---
 

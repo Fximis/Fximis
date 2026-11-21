@@ -1,0 +1,53 @@
+﻿<svg width="854" height="175" viewBox="0 0 854 175" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="55%" stop-color="#161229"/>
+      <stop offset="100%" stop-color="#6e40c9"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff007f"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff007f"/>
+      <stop offset="100%" stop-color="#00f0ff"/>
+    </linearGradient>
+    <linearGradient id="pillBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff007f" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0.45"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="854" height="175" rx="12" fill="url(#bgGrad)"/>
+  <rect x="1" y="1" width="852" height="173" rx="11" fill="none" stroke="#00f0ff" stroke-opacity="0.22" stroke-width="1"/>
+
+  <path d="M0 130 Q 213.5 165 427 135 T 854 150 L 854 175 L 0 175 Z" fill="url(#waveGrad)" opacity="0.16">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite"
+      values="M0 130 Q 213.5 165 427 135 T 854 150 L 854 175 L 0 175 Z;
+              M0 145 Q 213.5 115 427 150 T 854 130 L 854 175 L 0 175 Z;
+              M0 130 Q 213.5 165 427 135 T 854 150 L 854 175 L 0 175 Z" />
+  </path>
+
+  <rect x="48" y="32" width="4" height="112" rx="2" fill="url(#accentGrad)"/>
+
+  <text x="68" y="68" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.5">
+    Fellipe M. Schmidt
+  </text>
+
+  <text x="68" y="98" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14.5" font-weight="600">
+    <tspan fill="#00f0ff">Desenvolvedor de Software</tspan>
+    <tspan fill="#8b949e"> · </tspan>
+    <tspan fill="#f0f6fc">Direito Digital, Cybersecurity &amp; IA</tspan>
+  </text>
+
+  <!-- 3 Theme-Adapted Cyberpunk Pills -->
+  <rect x="68" y="116" width="144" height="24" rx="5" fill="#120f24" fill-opacity="0.85" stroke="#00f0ff" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="140" y="132" text-anchor="middle" fill="#00f0ff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Clean Code &amp; SOLID</text>
+
+  <rect x="222" y="116" width="144" height="24" rx="5" fill="#120f24" fill-opacity="0.85" stroke="url(#pillBorder)" stroke-width="1"/>
+  <text x="294" y="132" text-anchor="middle" fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">TDD &amp; CI/CD</text>
+
+  <rect x="376" y="116" width="154" height="24" rx="5" fill="#120f24" fill-opacity="0.85" stroke="#ff007f" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="453" y="132" text-anchor="middle" fill="#ff7ab8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Security by Design</text>
+</svg>

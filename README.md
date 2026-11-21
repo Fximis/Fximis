@@ -24,7 +24,6 @@ Desenvolvedor de software com formação em Direito, especialização em **Direi
 ![PHPStan / Larastan](https://img.shields.io/badge/PHPStan_%2F_Larastan-1F2937?style=flat-square)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![LangGraph / Agentes LLM](https://img.shields.io/badge/LangGraph_%2F_Agentes_LLM-1C3C3C?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
